@@ -17,4 +17,4 @@ Mapping resources for PDF should not be confused with CMap resources. While both
 
 ## Getting Involved
 
-Send suggestions for changes to the Mapping Resources for PDF project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub] Mapping Resources for PDF), for consideration.
+Send suggestions for changes to the Mapping Resources for PDF project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Mapping%20Resources%20for%20PDF), for consideration.

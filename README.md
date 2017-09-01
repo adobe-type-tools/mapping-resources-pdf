@@ -1,6 +1,6 @@
 # Mapping Resources for PDF
 
-These mapping resources are used to derive content from PDF (*Portable Document Format*) files that include CJK (Chinese, Japanese, and Korean) information. These mapping resources are in use by Adobe Reader, Adobe Acrobat (Pro and Standard), and Acrobat Distiller. (Note that these are soon to be part of the Adobe Document Cloud family.) These mapping resources are also useful for third-party PDF clients, thus the need for this open source project.
+These mapping resources are used to derive content from PDF (*Portable Document Format*) files that include CJK (Chinese, Japanese, and Korean) information. These mapping resources are in use by Adobe Reader, Adobe Acrobat (Pro and Standard), and Acrobat Distiller, which are now part of the Adobe Document Cloud family. These mapping resources are also useful for third-party PDF clients, thus the need for this open source project.
 
 ## Contents
 

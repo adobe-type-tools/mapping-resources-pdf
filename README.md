@@ -6,7 +6,7 @@ These mapping resources are used to derive content from PDF (*Portable Document 
 
 This project includes the following mapping resources for PDF, divided into two categories, ToUnicode and everything else:
 
-*pdf2unicode*: ToUnicode Mapping Resources (for Adobe-GB1, Adobe-CNS1, Adobe-Japan1, and Adobe-Korea1)  
+*pdf2unicode*: ToUnicode Mapping Resources (for Adobe-GB1, Adobe-CNS1, Adobe-Japan1, Adobe-Korea1, and Adobe-KR)  
 *pdf2other*: All Other Mapping Resources
 
 The reason to separate the ToUnicode mapping resources from the other mapping resources is related to the static nature of the other mapping mapping resources. The ToUnicode mapping resources are subject to change when a new Supplement is defined, or when a new version of Unicode triggers additional mappings in CMap resources that in turn influence these mapping resources.

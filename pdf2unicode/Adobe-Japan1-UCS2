@@ -3,7 +3,7 @@
 %%IncludeResource: ProcSet (CIDInit)
 %%BeginResource: CMap (Adobe-Japan1-UCS2)
 %%Title: (Adobe-Japan1-UCS2 Adobe Japan1 7)
-%%Version: 9.001
+%%Version: 9.002
 %%Copyright: -----------------------------------------------------------
 %%Copyright: Copyright 1990-2019 Adobe. All rights reserved.
 %%Copyright:
@@ -53,7 +53,7 @@ begincmap
 end def
 
 /CMapName /Adobe-Japan1-UCS2 def
-/CMapVersion 9.001 def
+/CMapVersion 9.002 def
 /CMapType 2 def
 
 /XUID [1 10 25335 1212] def
@@ -201,7 +201,7 @@ endbfchar
 <0241> <3052>
 <0242> <3054>
 <0243> <3056>
-<0244> <3068>
+<0244> <3058>
 <0245> <305a>
 <0246> <305c>
 <0247> <305e>
@@ -7670,7 +7670,7 @@ endbfchar
 <2419> <3052>
 <241a> <3054>
 <241b> <3056>
-<241c> <3068>
+<241c> <3058>
 <241d> <305a>
 <241e> <305c>
 <241f> <305e>
